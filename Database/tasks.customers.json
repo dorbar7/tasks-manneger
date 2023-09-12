@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "64e6028ef367055e43beab9b"
+  },
+  "name": "dor",
+  "email": "dornagt@walla.com",
+  "occupation": "shoes",
+  "phone": "0549862135"
+},
+{
+  "_id": {
+    "$oid": "64e62e80f367055e43beab9e"
+  },
+  "name": "guy",
+  "email": "guynagt@walla.com",
+  "occupation": "maintenance",
+  "phone": "0548854485"
+},
+{
+  "_id": {
+    "$oid": "64e62e89f367055e43beab9f"
+  },
+  "name": "yakov",
+  "email": "yakovjb@walla.com",
+  "occupation": "doorman",
+  "phone": "0535559876"
+}]

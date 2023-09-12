@@ -1,0 +1,28 @@
+24.8.2023, 12:55:36 	 Route /api/customer not exist
+----------------------------
+24.8.2023, 13:22:16 	 Cast to ObjectId failed for value ":64e6028ef367055e43beab9b" (type string) at path "customerId" for model "TaskModel"
+----------------------------
+27.8.2023, 14:19:46 	 Route /api/tasks not exist
+----------------------------
+27.8.2023, 14:21:42 	 Route /api/tasks not exist
+----------------------------
+28.8.2023, 18:11:17 	 Route /api/tasks64eb67fe8e0e031ae5f20741 not exist
+----------------------------
+28.8.2023, 18:11:43 	 Route /api/tasks64eb67fe8e0e031ae5f20741 not exist
+----------------------------
+28.8.2023, 18:13:30 	 _id undefined not exist
+----------------------------
+28.8.2023, 18:14:41 	 _id undefined not exist
+----------------------------
+28.8.2023, 18:17:24 	 _id undefined not exist
+----------------------------
+28.8.2023, 18:18:42 	 Route /api/tasks64eb67fe8e0e031ae5f20741 not exist
+----------------------------
+28.8.2023, 18:20:30 	 _id undefined not exist
+----------------------------
+7.9.2023, 15:40:05 	 _id undefined not exist
+----------------------------
+7.9.2023, 18:32:02 	 _id undefined not exist
+----------------------------
+7.9.2023, 18:39:03 	 _id undefined not exist
+----------------------------
